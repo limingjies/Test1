@@ -1,5 +1,9 @@
 package com.allinfinance.po.mchnt;
 
-public class Test2 {
+import org.eclipse.jdt.internal.compiler.batch.Main;
 
+public class Test2 {
+public static void main(String[] args) {
+	String a = "aaaaaaaaaaaaaa";
+}
 }
